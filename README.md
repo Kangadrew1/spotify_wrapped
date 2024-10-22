@@ -12,3 +12,10 @@ Frontend: React, Tailwind CSS, HTML
 Backend: Django
 API: Spotify API
 Languages: Python (Django), JavaScript (React)
+
+# Team -
+Ayush Chattopadhya
+Eric Lu
+Jesse Zhang 
+Vincent 
+Andrew
