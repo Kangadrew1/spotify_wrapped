@@ -15,7 +15,8 @@ Languages: Python (Django), JavaScript (React)
 
 # Team -
 Ayush Chattopadhya
+Andrew Nguyen
 Eric Lu
 Jesse Zhang 
-Vincent 
-Andrew
+Vincent Yang
+
