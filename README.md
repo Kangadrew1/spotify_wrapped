@@ -14,9 +14,9 @@ API: Spotify API
 Languages: Python (Django), JavaScript (React)
 
 # Team -
-Ayush Chattopadhya
-Andrew Nguyen
-Eric Lu
-Jesse Zhang 
+Ayush Chattopadhya <br/>
+Andrew Nguyen <br/>
+Eric Lu <br/>
+Jesse Zhang <br/>
 Vincent Yang
 
